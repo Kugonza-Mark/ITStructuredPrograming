@@ -20,3 +20,8 @@ print(f"Your temperature that i got as {celciousTemp} and its value in farehenit
 # Question 10
 # Question 11
 #HELLO MEMBERS
+
+length = float(input("Enter the length of the rectangle "))
+Width = float(input("Enter the Width of the rectangle:  "))
+Perimeter = 2*(length + Width)
+print(f"The perimeter of the rectangle is {Perimeter}")
