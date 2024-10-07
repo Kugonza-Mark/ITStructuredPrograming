@@ -34,6 +34,12 @@ print(f"the force of gravitational attraction between the two bodies is{formula}
 #inThreeYears=populationC*(1+growthRate)**3
 #print(f"the population in 3 years is{inThreeYears}") 
 
+# Question 10
+# Question 11
+#HELLO MEMBERS
 
-
+length = float(input("Enter the length of the rectangle "))
+Width = float(input("Enter the Width of the rectangle:  "))
+Perimeter = 2*(length + Width)
+print(f"The perimeter of the rectangle is {Perimeter}")
 
