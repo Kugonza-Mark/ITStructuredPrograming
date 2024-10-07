@@ -4,7 +4,7 @@
 # print(f"Your temperature that i got as {ceiliousTemp} and its value in farehenit is {fareTemp}")
 
 # Question 8
-
+# added info
 numberOne= int(input("Please enter the first number"))
 numberTwo= int (input("Please enter the second number"))
 answer=numberOne*numberTwo
