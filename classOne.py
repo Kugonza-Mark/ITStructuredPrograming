@@ -10,3 +10,4 @@ numberTwo= int (input("Please enter the second number"))
 answer=numberOne*numberTwo
 print(f"The answer after multiplying {numberOne} by {numberTwo} is {answer}")
 #Question 9
+age=int (input("how old are you"))
