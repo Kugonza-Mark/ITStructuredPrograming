@@ -17,3 +17,5 @@ print(f"Your temperature that i got as {celciousTemp} and its value in farehenit
 # print(f"The answer after multiplying {numberOne} by {numberTwo} is {answer}")
 
 #Question 9
+# Question 10
+# Question 11
