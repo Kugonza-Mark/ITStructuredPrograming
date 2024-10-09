@@ -38,8 +38,15 @@ print(f"the force of gravitational attraction between the two bodies is{formula}
 # Question 11
 #HELLO MEMBERS
 
-length = float(input("Enter the length of the rectangle "))
-Width = float(input("Enter the Width of the rectangle:  "))
-Perimeter = 2*(length + Width)
-print(f"The perimeter of the rectangle is {Perimeter}")
+# length = float(input("Enter the length of the rectangle "))
+# Width = float(input("Enter the Width of the rectangle:  "))
+# Perimeter = 2*(length + Width)
+# print(f"The perimeter of the rectangle is {Perimeter}")
 
+#Question 2
+Age=18
+Age=int(input("Enter your age: "))
+if Age>=18:
+    print(f"You are eligible to vote")
+else:
+    print(f"You are not eligible to vote")    
