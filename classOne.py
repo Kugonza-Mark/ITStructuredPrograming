@@ -38,10 +38,83 @@ print(f"the force of gravitational attraction between the two bodies is{formula}
 # Question 11
 #HELLO MEMBERS
 
+<<<<<<< Updated upstream
 # length = float(input("Enter the length of the rectangle "))
 # Width = float(input("Enter the Width of the rectangle:  "))
 # Perimeter = 2*(length + Width)
 # print(f"The perimeter of the rectangle is {Perimeter}")
+=======
+#length = float(input("Enter the length of the rectangle "))
+#Width = float(input("Enter the Width of the rectangle:  "))
+#Perimeter = 2*(length + Width)
+#print(f"The perimeter of the rectangle is {Perimeter}")
+
+"""age=int(input("enter your age"))
+if age>=18:
+    print("you are elligible to vote")
+elif age==18:
+    print("you can vote")
+else:
+    print("you cant vote")
+    
+number=int(input("entr the number"))
+if number>=10:
+    print("number is greater than 10")
+else:
+    print("number is less htan 10")
+
+loggedIn=True
+if loggedIn:
+    print("welcome")
+
+name=input("enter your name")
+if len(name)>5:
+    print("long name")
+else:
+    print("short name") 
+     
+day=input("enter day of the week")
+if day in ["monday","tuesday","wednesday","thursday","friday"]:
+    print("its a weekday")
+else:
+    print ("its a weekend")   
+
+celsuis=float(input("enter the temperature"))
+if celsuis>=30:
+    print("its a hot day")
+else:
+    print("its a cold day")    
+
+amount=int(input("enter the ammount"))
+if amount>=50:
+    print("you qualify for free shipping")
+else:
+    print("pay the amount given for shipping")  
+    
+number=int(input("enter the number"))
+if number%2==0:
+    print("even")
+else:
+    print("odd")
+    
+password=300
+password=int(input("enter the password"))
+if password==300:
+    print("access granted")
+else:
+    print("access denied")
+    
+password="hello"
+password=input("enter the password")
+if password=="hello":
+    print("access granted")
+else:
+    print("access denied")
+    """
+
+            
+
+>>>>>>> Stashed changes
 
 #Question 2
 Age=18
